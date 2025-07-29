@@ -55,8 +55,6 @@ Spring Boot following Clean Architecture principles.
 
 <h2>🧩 Core Skills</h2>
 
-## 🧩 Core Skills
-
 **Languages & Frameworks**  
 - Java 8/17  
 - Spring Boot  
