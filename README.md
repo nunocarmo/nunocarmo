@@ -87,17 +87,6 @@ Spring Boot following Clean Architecture principles.
 
 ---
 
-<h2>📁 Architecture Pattern</h2>
-
-```text
-📦 src/
-├── domain/          # Entities and core models
-├── usecase/         # Business logic and interactors
-├── presentation/    # JavaFX FXML views and reactive ViewModels
-├── infrastructure/  # Repositories, Spring configs, serial port handlers
-└── test/            # Unit tests for ViewModel, service, use case
-```
-
 <h2>📈 GitHub Stats</h2>
 
 <p align="center">
